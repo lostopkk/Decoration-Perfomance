@@ -1,0 +1,13 @@
+name = "Mojangster (Animated Loading Screen)"
+filename = "mojangster-1.0.0-1.19-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b4ef057ecaf10c8aadafd266ad150c43b238120"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4173489
+project-id = 518707

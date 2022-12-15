@@ -1,0 +1,13 @@
+name = "Immersive Paintings [Fabric/Forge]"
+filename = "immersive_paintings-0.4.2+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f9429df5e9cf0a5f7eea70aa82ca8321352821d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4153332
+project-id = 639584

@@ -1,0 +1,13 @@
+name = "Cozy"
+filename = "cozy-1.1.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "155a3f4b522b637c5227e065c48988da8166f3d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4171816
+project-id = 625281

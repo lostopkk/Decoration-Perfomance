@@ -1,0 +1,13 @@
+name = "Grim Statues"
+filename = "statues-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93ff9f68ca19dd38138b2b4a319994dd6416030b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4053966
+project-id = 520827

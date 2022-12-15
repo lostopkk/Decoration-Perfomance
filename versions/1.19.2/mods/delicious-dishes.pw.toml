@@ -1,0 +1,13 @@
+name = "Delicious Dishes"
+filename = "dishes-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FiCfuPPS/versions/24SGGYTu/dishes-2.1.0.jar"
+hash-format = "sha1"
+hash = "c60bd1ea309d3c399bb4f34b2ce933bdb1902fc6"
+
+[update]
+[update.modrinth]
+mod-id = "FiCfuPPS"
+version = "24SGGYTu"

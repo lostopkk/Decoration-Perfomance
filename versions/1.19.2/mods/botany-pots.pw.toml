@@ -1,0 +1,13 @@
+name = "Botany Pots"
+filename = "BotanyPots-Fabric-1.19.2-9.0.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe286f85fa3257ee315e99dc8b55fff15f181cae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4136401
+project-id = 353928

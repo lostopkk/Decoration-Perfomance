@@ -1,0 +1,13 @@
+name = "[Fabric/Forge] Market Crates (1.15 to 1.19)"
+filename = "marketcrates-fabric-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb5c73cc28c59e7778ff5cbbe8f62a85737b1e7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4094192
+project-id = 443591

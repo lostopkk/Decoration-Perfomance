@@ -1,0 +1,13 @@
+name = "Mishang Urban Construction 迷上城建"
+filename = "mishanguc-1.0.4-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f71e54eb65e89403ea8e6d8f670a7d95029f8de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4128274
+project-id = 583071

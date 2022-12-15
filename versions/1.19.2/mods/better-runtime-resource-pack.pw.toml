@@ -1,0 +1,13 @@
+name = "Better Runtime Resource Pack (BRRP)"
+filename = "brrp-fabric-0.8.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45ecbbd9354e1961a6b10549307e697d1e68faba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4087605
+project-id = 618156
