@@ -1089,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-runtime-resource-pack.pw.toml"
-hash = "05982fb2c816127776922e1fabee2dfed4c593b7fc6d523d867959dec774ca3a"
+hash = "288916f7ea7130bbb0f7b674718d6082d3898d7da95d7a0c43aec62535629ced"
 metafile = true
 
 [[files]]
@@ -1138,11 +1138,6 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
-file = "mods/carpeted-stairs.pw.toml"
-hash = "8bf241dc64658188d9dce38f13308c63310a492a5028a4e84bb8581a4c02d039"
-metafile = true
-
-[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -1155,11 +1150,6 @@ metafile = true
 [[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
-metafile = true
-
-[[files]]
-file = "mods/chirpys-wildlife.pw.toml"
-hash = "3d3c482cdbd8ca361b20f714b5be3e6fe5ccd482a062c5ca793658a02f65ed46"
 metafile = true
 
 [[files]]
@@ -1285,11 +1275,6 @@ metafile = true
 [[files]]
 file = "mods/effective.pw.toml"
 hash = "55a8b11931f7d3c8e7cfc6cab29aee2b6ba49a36f999c1a2cc6cd1f2506ae213"
-metafile = true
-
-[[files]]
-file = "mods/emojiful.pw.toml"
-hash = "4c3ba5bbbc1d3824182021a5a492f916357339cf65b009cfdb0be1e335d82528"
 metafile = true
 
 [[files]]
@@ -1473,11 +1458,6 @@ hash = "f061f7978a8826cad84ff5b0d0074d5c8d7be30bd97a7e4a6696cab7f4f8e828"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-wine.pw.toml"
-hash = "238341aee357837d8ce08da24848b8832b11e5a5c39e3c9d4c4d72c34e208194"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
@@ -1573,11 +1553,6 @@ hash = "9bdff9784d75d3bd90f6d1ef24efcf0daf780b8fdf2a5ce37190815dd57632e5"
 metafile = true
 
 [[files]]
-file = "mods/more-banner-features.pw.toml"
-hash = "d953314b8c2051cacb4e2d5097f8b25245da61f264d83e54d895bb4cef80ec41"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "db19edc58c7779aba173e9aae60a550f16535f9395046afc870982157aaedb5a"
 metafile = true
@@ -1649,7 +1624,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3c1887a5e3c034669c0e180d61fcf3a7446b61c1f112dfd09347851d00a6dcae"
+hash = "811b544eaa99b1882faa2511d8b69dd6e18edbc0b22cb6a6fa036a0dea089d0f"
 metafile = true
 
 [[files]]
@@ -1766,10 +1741,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_r936323.zip"
-hash = "691e55d9d3901a0e561f3d1b5d03a50fdccfb5b9f629ea22617ec1372172687f"
 
 [[files]]
 file = "resourcepacks/connected-textures-mod-ctm-overhaul.pw.toml"
