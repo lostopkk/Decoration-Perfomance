@@ -3,11 +3,11 @@ filename = "fabric-api-0.69.0+1.19.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/25Hm7c3j/fabric-api-0.69.0%2B1.19.2.jar"
 hash-format = "sha1"
 hash = "91ccd8078d374160dcbe176512b203fbd3a5e923"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4162908
-project-id = 306612
+[update.modrinth]
+mod-id = "P7dR8mSH"
+version = "25Hm7c3j"

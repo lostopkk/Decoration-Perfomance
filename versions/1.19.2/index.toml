@@ -1159,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -1254,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "96a5c00077a556b42283e94f46cf1ed91b07fb17386147a708e1354459a49ecd"
+hash = "d18222d19e161fecd61a8182d6dd13c561462e67fcd551ecc555b48fdf77794b"
 metafile = true
 
 [[files]]
@@ -1304,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7ff7400593d767a9a44f67e8fbdf410a71b8dfda371ec47c30f3380ff551617a"
+hash = "de8978857fa72b8367e2b3c91a4ed0066e98cfb3d14a7dd95016e91b17e3d99b"
 metafile = true
 
 [[files]]
@@ -1329,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "166af52f9b92d1b99b9108da9ec1584e5cb1a8b8483f11eace113a83b466091a"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
 metafile = true
 
 [[files]]
@@ -1704,7 +1704,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "982ad5242db0a63779f0738334eda8f8a8c5b12e309006c99692606d6f5c3837"
+hash = "f0c490ddd5aa6bfd096059967f8e954b6771bcf2201ae9a6dd195e6e1b22a908"
 metafile = true
 
 [[files]]
