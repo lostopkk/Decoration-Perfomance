@@ -1263,6 +1263,16 @@ hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "991694ca64e944ebcf8b15cf46876d5bde17ea51f65dd63ee07e969c89830336"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "9d70b59f5772f43b4154921ebbc79c2be0f88923e7b4aba7e4e825cb736a85e9"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
