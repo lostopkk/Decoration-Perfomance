@@ -1314,7 +1314,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de87fd5c684c0ca615f880ffe1df3c4842b82d343b1d8479035ac228c3c6934b"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
@@ -1599,7 +1599,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "cae1ff371b33eb0352e9ab3b559699c4596d30fa3bd544c73919e66ffac2c433"
+hash = "680069cadad79f9a8c603d455b206388fdb90c5295dd027ed6b2524ae156f0b3"
 metafile = true
 
 [[files]]
