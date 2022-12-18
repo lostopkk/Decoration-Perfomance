@@ -1514,7 +1514,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "8fca044c06687f1e0f645ea179fa96a73abe84c7e4e4c982633868c150553732"
+hash = "98b6983ca2bd063b9f4f980bcf14ade7c25a5cefe36ffacb3ac8bc557147dd4e"
 metafile = true
 
 [[files]]
@@ -1619,7 +1619,7 @@ metafile = true
 
 [[files]]
 file = "mods/satin-api.pw.toml"
-hash = "240ba9e190277f74e03634360f629420524d785cb6261e9ad208a512c38dc6fc"
+hash = "eff50f07b22acfa4efd014e86df1cbe29af11f3cd9bd436c6f078c070467aef5"
 metafile = true
 
 [[files]]
