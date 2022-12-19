@@ -1628,6 +1628,11 @@ hash = "137460be130a91349243be497e0e33f61d8631d271a1d420cbb37e4ddfd6ab62"
 metafile = true
 
 [[files]]
+file = "mods/pretty-ladders.pw.toml"
+hash = "16c91fd8a2478abac0e1152d6023cbcd58808640093fdd075df1703426138c5a"
+metafile = true
+
+[[files]]
 file = "mods/realisticsleep.pw.toml"
 hash = "7b16ef48b0a5b0fa62092c998d0eb90de34f868f6cba5db46f2f50ba526627ce"
 metafile = true

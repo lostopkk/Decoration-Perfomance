@@ -1,0 +1,13 @@
+name = "Pretty Ladders"
+filename = "PrettyLadders-1.0.1+MC1.19.2(Fabric).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aO4jFwwq/versions/yenfhOZb/PrettyLadders-1.0.1%2BMC1.19.2%28Fabric%29.jar"
+hash-format = "sha1"
+hash = "32d8bacddd737bf04e0c32c159d00ecffd93d64f"
+
+[update]
+[update.modrinth]
+mod-id = "aO4jFwwq"
+version = "yenfhOZb"
