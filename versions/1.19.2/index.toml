@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "717b647b55ed490cb83d1e22994c2dc176a6aa710bde4487adec30901b50cc95"
+hash = "7c68184578b2af8ed122211fb9282133538d0d47d207f6ef4f03c67d9f8d2b10"
 metafile = true
 
 [[files]]
@@ -1484,7 +1484,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "19a1dc455a68328d5a8449cb59849b1c4ee3189e3f49a8bbc15e15a4df25788b"
+hash = "b16dd6d03444954164f412bdbbf33c23e88a28daf83fa4628027c6b3e167107a"
 metafile = true
 
 [[files]]
@@ -1499,7 +1499,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "32746a6c2808791d1fbcb95883ee6cb001fc6c536c9dd0146abc821167bbb651"
+hash = "249a3b661bc2cb8c2945757fcf6d28debe00fc11208b73829b3e89f70d943b68"
 metafile = true
 
 [[files]]
@@ -1509,7 +1509,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "10ebe497b4e92b8490a74b2088c1c2565a7a947f0fb0fb05ca5a8e1e73013882"
+hash = "b96fddaa1229e5f1194af728e987800ce250f98cf2bbef345735ab316c0fd4f0"
 metafile = true
 
 [[files]]
@@ -1519,7 +1519,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "2f5745bd7d8c66fdb305f71292fa64f54b5d0aad35f156e4fbc101c6643cbb05"
+hash = "a1c1b7caa37b8311deb621db7a9bec5e324f6a51e5ab879a7a82c7a38ceee966"
 metafile = true
 
 [[files]]
@@ -1564,7 +1564,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "db19edc58c7779aba173e9aae60a550f16535f9395046afc870982157aaedb5a"
+hash = "d7b75ebd1b86bc99af1c6e24857f98c697d9efc1998572f4d6a6f8aca679208b"
 metafile = true
 
 [[files]]
@@ -1674,7 +1674,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "53843b76c33ecf7910248cd1c941920adf23f81130a9155997d911199dce0816"
+hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
 metafile = true
 
 [[files]]
@@ -1719,7 +1719,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "64a7d2034f46aa465709d7af2ff7771f632d03516d6f2897a942fd5fd8145fb2"
+hash = "10aab17f99e345a87657731b9ebd2654639526de29ea454521232dc596bdc1b6"
 metafile = true
 
 [[files]]
