@@ -1383,6 +1383,11 @@ hash = "9495b9a30c2be56ffac6bb1bcb4fb4938a0106c7f3c6adbb47ddb60bd99e2f53"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "5c99ee64167fb98e85109e8a73ede145ca14bbef9f370e705f85240ed68f8940"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
@@ -1475,6 +1480,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "7b528be4680afe345d55bda8e58b818023da9579cbd9eb00c24c6b7add33ba31"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "46abacb059a2af9fe270f2be6c714ac7d5eeee71b4a9fa2f20ac047438a12cab"
 metafile = true
 
 [[files]]
