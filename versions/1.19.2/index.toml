@@ -1006,7 +1006,7 @@ hash = "9bd255e886f72763e992580c7e2430f568c6e4fe0e466ce74c98c40c3ca41d8f"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "8225002938fb9c9824a20b10467c25386a2d4a384bde86876355f0d70bacde2b"
 
 [[files]]
 file = "config/zoomify.json"
@@ -1433,8 +1433,8 @@ hash = "d4f85fc72da9cf35b73a202df5b2ac94fa6649bff03081111abfa3080e315969"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+file = "mods/irisshaders.pw.toml"
+hash = "7a16c34e03b074be71d57ddf44b781df6c592d8884ca4479e7a6bb82e5dc4e66"
 metafile = true
 
 [[files]]
@@ -1638,6 +1638,11 @@ hash = "7b16ef48b0a5b0fa62092c998d0eb90de34f868f6cba5db46f2f50ba526627ce"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "c14b24e13f6b88296b50a8e67ab249b7e89c826339859ac403363b0644e8bb70"
 metafile = true
@@ -1745,11 +1750,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
-metafile = true
-
-[[files]]
-file = "mods/xanders-sodium-options.pw.toml"
-hash = "3452f14c43dc4693a6c0d4b892f191dfae73800ff79b3e7b22222f2c64174a32"
 metafile = true
 
 [[files]]
