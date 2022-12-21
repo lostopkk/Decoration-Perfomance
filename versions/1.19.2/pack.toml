@@ -1,12 +1,12 @@
 name = "Decoration Perfomance"
 author = "Lostopkk"
-version = "0.0.4"
+version = "0.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1657b411f299a5ede5a2abb014c84774c8492178193ccb0cc065d0892db2eaca"
+hash = "4fe9c338400d196fcdd08eb927c3616b704302fc2cd50b99407e4e792688636c"
 
 [versions]
 fabric = "0.14.11"

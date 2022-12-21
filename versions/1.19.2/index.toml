@@ -1619,7 +1619,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "680069cadad79f9a8c603d455b206388fdb90c5295dd027ed6b2524ae156f0b3"
+hash = "7d81aed649bf12df208c0882d4197a7c77613e1f836674a7e20521459fd79c6f"
 metafile = true
 
 [[files]]
@@ -1654,12 +1654,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "811b544eaa99b1882faa2511d8b69dd6e18edbc0b22cb6a6fa036a0dea089d0f"
+hash = "6bcb14868f8f7e5756b9cc96de54f4948a4f13120e4e76f4193c3c71890ffe1e"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bc49392f565b9da4def96a3a6e28522ceeb9ff582feac2e81cfcd6877ed7c222"
+hash = "3d129e62a53211c2dcb30ffdddb8e4a7eb3cb1c8f2d7f9d491ea1e41a245c718"
 metafile = true
 
 [[files]]
@@ -1679,7 +1679,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
+hash = "13a974dccf1da0cc52326355ebea5004a6a5d1dd2098d157b418045c04a747c9"
 metafile = true
 
 [[files]]
@@ -1704,7 +1704,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "eb1bde8fc12fe16bde75234d4c5c8a1894c7939acdc4d8cda303044cdbf0d9da"
+hash = "c36d522fabbfefbb9dcde8eba4f7233b43b3c01b0c144a75c1bc5f72eb8ec01d"
 metafile = true
 
 [[files]]
@@ -1739,7 +1739,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "10aab17f99e345a87657731b9ebd2654639526de29ea454521232dc596bdc1b6"
+hash = "1fa60ac650ff3c38048d95b97366fcbf2a42d5dd92f1dd93b55e0cf58d2248e7"
 metafile = true
 
 [[files]]
