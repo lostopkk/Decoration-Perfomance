@@ -1,0 +1,13 @@
+name = "Ordinary Coins [Forge/Fabric]"
+filename = "OrdinaryCoins-1.0.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "699fa809645cb89571ffd18fe9c99550e824590d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4030119
+project-id = 633546

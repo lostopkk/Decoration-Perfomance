@@ -1394,7 +1394,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9ccf160a03cbda989ebed2c4fcd4ee02e6a33e06eb31c50504bdbcbd140e17dc"
+hash = "1c0d4ec7bde20e0dae98a09b4b440aa6445e6a631e523978a3154f9c41b61eac"
 metafile = true
 
 [[files]]
@@ -1593,6 +1593,11 @@ hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
+file = "mods/ordinary-coins-forge-fabric.pw.toml"
+hash = "e94ccb59979a5b5626a0797c64649bab66a6f90763d8881d930da592cba81c84"
+metafile = true
+
+[[files]]
 file = "mods/otyacraft-engine.pw.toml"
 hash = "a22a34ac1044eb4d4047c4dabe383556a44dc5e40e6d4cd217d6bd30c42101d2"
 metafile = true
@@ -1649,7 +1654,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "6bcb14868f8f7e5756b9cc96de54f4948a4f13120e4e76f4193c3c71890ffe1e"
+hash = "d8c33633d54c2be5df1ab46f0b864a51079a4523f1df12bccfa908746c962cb4"
 metafile = true
 
 [[files]]
