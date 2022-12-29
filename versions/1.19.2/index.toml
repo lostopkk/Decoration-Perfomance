@@ -1138,18 +1138,8 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
-file = "mods/cc-restitched.pw.toml"
-hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
-metafile = true
-
-[[files]]
 file = "mods/charm-fixer.pw.toml"
 hash = "e6d715337d086c10a0856276752172813d75e4702a228098d41ef93ea2c6cf39"
-metafile = true
-
-[[files]]
-file = "mods/charm.pw.toml"
-hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
 
 [[files]]
@@ -1193,11 +1183,6 @@ hash = "113845c6f34fc699d57dffe95e5c3ddd41cb996ddeb04ec21529e3159c3dc3bf"
 metafile = true
 
 [[files]]
-file = "mods/coxinha-utilities.pw.toml"
-hash = "456d2b81b36fc1d049d7422441e2d003bf10ae3f0179ee2729fca647b06d0452"
-metafile = true
-
-[[files]]
 file = "mods/cozy.pw.toml"
 hash = "14ea0e315e96d8e6adafb9de1af718f1868296ec13ae8881e6e301cb2dea9c85"
 metafile = true
@@ -1215,11 +1200,6 @@ metafile = true
 [[files]]
 file = "mods/cullclouds.pw.toml"
 hash = "2bbb1ff7bbecbdb7b484df35b823dae2abc4798a5c203a651d2ae0b0a707d119"
-metafile = true
-
-[[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "27331e0e0ddb92845824faaee542465905748c7a79c93e13f3f6a4bfc3f89eff"
 metafile = true
 
 [[files]]
@@ -1443,11 +1423,6 @@ hash = "51ef097ae385872cae9608db55cc8beba6f9c616929f03042fa5d710c1a84d7f"
 metafile = true
 
 [[files]]
-file = "mods/kibe.pw.toml"
-hash = "4e4b125f735d8a1890413685745723223018936ae5268aa75e424fa79904c1ca"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -1518,11 +1493,6 @@ hash = "5ee8fe6018c7ad0fba0a3aa434aae95c7c3aee860f14262276459c4cfbbde17c"
 metafile = true
 
 [[files]]
-file = "mods/market-crates.pw.toml"
-hash = "657b66669b0d3da943cfb875bfde3df4f6f91fb3321acdadde31b20180d8e8c5"
-metafile = true
-
-[[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "a1c1b7caa37b8311deb621db7a9bec5e324f6a51e5ab879a7a82c7a38ceee966"
 metafile = true
@@ -1535,11 +1505,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "6b3d52bf341ea82e9835af103e0cc4f0f7cfaf3960ea7995acfb5b61d5e1641c"
-metafile = true
-
-[[files]]
-file = "mods/minekea-fabric.pw.toml"
-hash = "d1f0010e98a91487cbf23be33b5d531e45be2e61318571bc12304f7b3c7b77e0"
 metafile = true
 
 [[files]]
@@ -1605,11 +1570,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
-metafile = true
-
-[[files]]
-file = "mods/passable-leaves.pw.toml"
-hash = "d06837f7f06877b2cef0e6aeb6819de031358b2ada3c244df1878ada57fd7d45"
 metafile = true
 
 [[files]]
@@ -1720,11 +1680,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
-metafile = true
-
-[[files]]
-file = "mods/utility-belt.pw.toml"
-hash = "bd8b1d6b71204c2b6548c38ccef1add5570b6c06472d3fdc37d65ee6b9da501b"
 metafile = true
 
 [[files]]
