@@ -1138,11 +1138,6 @@ hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
 metafile = true
 
 [[files]]
-file = "mods/charm-fixer.pw.toml"
-hash = "e6d715337d086c10a0856276752172813d75e4702a228098d41ef93ea2c6cf39"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
