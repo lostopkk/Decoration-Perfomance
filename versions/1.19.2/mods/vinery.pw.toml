@@ -1,0 +1,13 @@
+name = "Vinery"
+filename = "vinery-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/ElYCmfzG/vinery-1.1.2.jar"
+hash-format = "sha1"
+hash = "9bb50523f4624200417a4c6bff3b4351f44658a1"
+
+[update]
+[update.modrinth]
+mod-id = "1DWmBJVA"
+version = "ElYCmfzG"

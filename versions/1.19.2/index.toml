@@ -1329,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
+hash = "6577d4f44379f709c0c6105eeb54e54dfecfdca74df12627bbabb062f584f48e"
 metafile = true
 
 [[files]]
@@ -1639,7 +1639,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "13a974dccf1da0cc52326355ebea5004a6a5d1dd2098d157b418045c04a747c9"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
@@ -1680,6 +1680,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "f11db428c5576254ec639eef9393ffec874cfdbc90dda8560f452104bc36c151"
 metafile = true
 
 [[files]]
