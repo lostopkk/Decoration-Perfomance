@@ -1263,6 +1263,11 @@ hash = "d730fc095167a665e54d8ce5a636f766cdd3cda52ed62168d48ca9826f676343"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "e01e5562c3ba5ab8a94d7263be15bb512cae75ab9e4444cc9ad28cc198f0f25c"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
@@ -1369,7 +1374,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1c0d4ec7bde20e0dae98a09b4b440aa6445e6a631e523978a3154f9c41b61eac"
+hash = "d1b5b0eed617a4a09c3b27592c6a595959b8df6eb10d42cad9094aef0e8af2f7"
 metafile = true
 
 [[files]]
