@@ -1,13 +1,13 @@
 name = "Handcrafted"
-filename = "handcrafted-fabric-1.19.2-2.0.1.jar"
+filename = "handcrafted-fabric-1.19.2-2.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/LJgzvQtK/handcrafted-fabric-1.19.2-2.0.1.jar"
+url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/L6NU016l/handcrafted-fabric-1.19.2-2.0.2.jar"
 hash-format = "sha1"
-hash = "d5741388b254367c97e94532c23de628587f70c3"
+hash = "dd1f6a6312818114cdaf825587035de20af51183"
 
 [update]
 [update.modrinth]
 mod-id = "pJmCFF0p"
-version = "LJgzvQtK"
+version = "L6NU016l"

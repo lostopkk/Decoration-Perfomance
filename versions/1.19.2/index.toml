@@ -1359,7 +1359,7 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "5c99ee64167fb98e85109e8a73ede145ca14bbef9f370e705f85240ed68f8940"
+hash = "dcac9380c79679d79be4a760e12507a76f990b7c3828436794c2f9eaa26f61d5"
 metafile = true
 
 [[files]]
@@ -1534,7 +1534,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d7b75ebd1b86bc99af1c6e24857f98c697d9efc1998572f4d6a6f8aca679208b"
+hash = "133ec9cccfd238b4ce6bd5b95dcf70a9603c86d7c22a347c483925b34425fbb5"
 metafile = true
 
 [[files]]
@@ -1613,6 +1613,11 @@ hash = "eff50f07b22acfa4efd014e86df1cbe29af11f3cd9bd436c6f078c070467aef5"
 metafile = true
 
 [[files]]
+file = "mods/searchlight.pw.toml"
+hash = "6d4f5f525c2461205af2a019f52001368727755026b00d03b7686d1b04abba9a"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "d8c33633d54c2be5df1ab46f0b864a51079a4523f1df12bccfa908746c962cb4"
 metafile = true
@@ -1664,7 +1669,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "26574964ff2a96d6b5acd1dd81fa9204aa3963900dd37e045e588d360795e302"
+hash = "79df5bab74e05c3f432462e6f1b63c6a67bc455d45698c11d70423e13a389489"
 metafile = true
 
 [[files]]
