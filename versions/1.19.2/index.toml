@@ -1063,6 +1063,11 @@ hash = "b7606dafc1939560ab63f3fadeb90e4ebbac1c25e57fb946e66bef05bee92460"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "3363cfbdb81b5525b740c32350f97fa4c5a2584f70f9f9dc25d6b3ea60139141"
+metafile = true
+
+[[files]]
 file = "mods/arrp.pw.toml"
 hash = "067c297842985d85d68b3ac840c58aa006e8959a0b2f3ad25a1967b07c05b41d"
 metafile = true

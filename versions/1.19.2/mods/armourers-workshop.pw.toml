@@ -1,0 +1,13 @@
+name = "Armourer's Workshop"
+filename = "armourersworkshop-fabric-1.19.2-2.0.0-beta.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aed13af5095d18205724ce3c386e16ecd5dde022"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4285253
+project-id = 229523
