@@ -1338,6 +1338,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "5dddc9f3e4b683268494703ad89dfe2584ccbd0b59670bc614e9976e13eaa642"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "384a78b98bfbb6c81918c9faec31e1d74053d451bb519b6428655d12c0e3dffc"
 metafile = true
@@ -1358,6 +1363,11 @@ hash = "dcac9380c79679d79be4a760e12507a76f990b7c3828436794c2f9eaa26f61d5"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "776396ca2450c8cb20a052ca0fb8247ac2bd03ff5f2baa8a05103dc4bd6c405c"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
@@ -1369,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d1b5b0eed617a4a09c3b27592c6a595959b8df6eb10d42cad9094aef0e8af2f7"
+hash = "6922d473e8c3042091b86b891ed83dc46fbde8e8a52dcd48267d39341fdb2200"
 metafile = true
 
 [[files]]
@@ -1404,7 +1414,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "7a16c34e03b074be71d57ddf44b781df6c592d8884ca4479e7a6bb82e5dc4e66"
+hash = "c2c9da2d2c1be1e25528e872a6645fb31bc6aed7d20d2762952f4e8125d9a9b4"
 metafile = true
 
 [[files]]
@@ -1499,7 +1509,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "6b3d52bf341ea82e9835af103e0cc4f0f7cfaf3960ea7995acfb5b61d5e1641c"
+hash = "5c67aec5af97ada0876978acdf9bf752d258ffacfbf3b797189a65c3b28b612f"
 metafile = true
 
 [[files]]
