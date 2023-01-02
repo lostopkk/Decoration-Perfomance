@@ -1453,6 +1453,11 @@ hash = "f061f7978a8826cad84ff5b0d0074d5c8d7be30bd97a7e4a6696cab7f4f8e828"
 metafile = true
 
 [[files]]
+file = "mods/lightmans-currency-fabric.pw.toml"
+hash = "0ada70041aaadb962a6baa7bad294371578c7e0813c8b2fa62cf90b332b67465"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
@@ -1533,11 +1538,6 @@ hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
 metafile = true
 
 [[files]]
-file = "mods/modern-dynamics.pw.toml"
-hash = "e18348cdd6fe4f8e38186414065aafda150c7c29e7c39a4d2af1103a6397af9e"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
@@ -1570,11 +1570,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
-metafile = true
-
-[[files]]
-file = "mods/ordinary-coins-forge-fabric.pw.toml"
-hash = "e94ccb59979a5b5626a0797c64649bab66a6f90763d8881d930da592cba81c84"
 metafile = true
 
 [[files]]

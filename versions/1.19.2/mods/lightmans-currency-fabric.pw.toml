@@ -1,0 +1,13 @@
+name = "Lightman's Currency Fabric"
+filename = "lightmanscurrency_fabric-1.19.2-1.0.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5a5267258c65ee5d24f2862e2c5b7a71a1403ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4278120
+project-id = 724119
