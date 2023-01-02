@@ -1223,6 +1223,11 @@ hash = "001cfba78e9af6cbabe06854997b44777cd2c5b4b854fe4e0b98a8ba50ddb05e"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "09389489ddb5753d4aaff3b0e1ea8f324aa93c607db9bd3ed7f0b9668a304f26"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "d18222d19e161fecd61a8182d6dd13c561462e67fcd551ecc555b48fdf77794b"
 metafile = true
@@ -1289,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d5125dcf51d480c8e0f95ef01387e356df1fb21cd1dd5dde75b0ade06a8e44dd"
+hash = "3fd27e1dd487a9cbbaaf6064bc2bae1e17bc0b063699c18339639d199236d02e"
 metafile = true
 
 [[files]]
@@ -1384,7 +1389,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1590b39edb1e068e4e36fb557343d6486b1a4d7561eb63c5b8738877b6379f2c"
+hash = "d5f2a025813192b3782e7fbeb1223fe28b71bd4120ffb3b0d1ec7df6bcf8c569"
 metafile = true
 
 [[files]]
