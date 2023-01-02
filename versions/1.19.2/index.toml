@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "95ca693f62490c4f728ee2024f145380b0b95027c22d6e3742f46511841a02b1"
+hash = "25c3a7a4a9a465e47ca16754ca37bfac48342c935d4e83a3a400db1978807ba1"
 metafile = true
 
 [[files]]
@@ -1514,7 +1514,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "5c67aec5af97ada0876978acdf9bf752d258ffacfbf3b797189a65c3b28b612f"
+hash = "fe74392a1341393f24f9f3f93ce44adea834cbb4f2174c7f2f67e85db42dce59"
 metafile = true
 
 [[files]]
