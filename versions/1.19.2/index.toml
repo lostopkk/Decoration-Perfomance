@@ -1224,7 +1224,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "09389489ddb5753d4aaff3b0e1ea8f324aa93c607db9bd3ed7f0b9668a304f26"
+hash = "b6882d7b1e82154fdc06a6d69a14cc664ea38622e018f4359950d23082b95b23"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fd27e1dd487a9cbbaaf6064bc2bae1e17bc0b063699c18339639d199236d02e"
+hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
 metafile = true
 
 [[files]]
