@@ -1224,7 +1224,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "b6882d7b1e82154fdc06a6d69a14cc664ea38622e018f4359950d23082b95b23"
+hash = "f082cedb2932e6a34924b3bec3c6857c52573778111ede34b404a02dca0cd1e6"
 metafile = true
 
 [[files]]
@@ -1389,7 +1389,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d5f2a025813192b3782e7fbeb1223fe28b71bd4120ffb3b0d1ec7df6bcf8c569"
+hash = "7e6a77d0ebdb13f5a90507620f22d7fb29926c6d9683366d48f61ed442727e69"
 metafile = true
 
 [[files]]
@@ -1679,7 +1679,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "79df5bab74e05c3f432462e6f1b63c6a67bc455d45698c11d70423e13a389489"
+hash = "22b86bb44ec0eab933854b9a694d7d1cc6fa1dc495c4f1fafe3407fe47ef3603"
 metafile = true
 
 [[files]]
