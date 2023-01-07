@@ -1189,7 +1189,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "2235e4bb8d79afad4d2f11fba3b5f7321584e5a994a316b7ff8d556629d7dd69"
+hash = "c2ebb5baae30e2c4831ab6d3f5b2c914416a522d8ac2a0d35de06c0b23d16fe1"
 metafile = true
 
 [[files]]
@@ -1339,7 +1339,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "25a6b92888e5ba12f46dfe002e2d3c57999a0a4d822650f541d4df03a9aac86b"
+hash = "1ddaec9581f49e527ce6881d5aeb1ec06a2a371e5b8c8191cf6d6b5f7f9f3a8e"
 metafile = true
 
 [[files]]
@@ -1519,7 +1519,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "98b6983ca2bd063b9f4f980bcf14ade7c25a5cefe36ffacb3ac8bc557147dd4e"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
@@ -1554,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "1dbd1e83fd8b81a7488d432341041d3ef49873d7b26b06e42fce436ced32f4b1"
+hash = "9506b1b7caa8550d12aecf50d02fbeeed90f3775a6597021f2953886e4d0eb47"
 metafile = true
 
 [[files]]
@@ -1634,7 +1634,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b5b1e65d31de2f6ccd5ec6474f778aa5eb3e788b3c7aa73102145df2ff37fc53"
+hash = "af103d485d7c217f5fc9a965e1bb2a2d1b13fda12a8ab019321742ebdf2cc780"
 metafile = true
 
 [[files]]
@@ -1679,7 +1679,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "22b86bb44ec0eab933854b9a694d7d1cc6fa1dc495c4f1fafe3407fe47ef3603"
+hash = "f32a81d66cdf147fb1a0a487f067bff74f8e101258cc551eaa232ef27ba5eea9"
 metafile = true
 
 [[files]]
