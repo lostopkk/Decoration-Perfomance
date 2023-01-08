@@ -1148,6 +1148,11 @@ hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
 metafile = true
 
 [[files]]
+file = "mods/colormatic.pw.toml"
+hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
+metafile = true
+
+[[files]]
 file = "mods/columns.pw.toml"
 hash = "538b1a7afde193d5cb3873509913b27366817d19574c5b0a081e5e56c2642ebd"
 metafile = true
@@ -1603,8 +1608,8 @@ hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
 
 [[files]]
-file = "mods/pretty-ladders.pw.toml"
-hash = "016954bcaa577532bf08a1467396d6be1cca3d24a7a3f3d4ecc3419c99125982"
+file = "mods/public-gui-announcement.pw.toml"
+hash = "37c1966ce07ca0b30afe8879353658c96bb714e214f3051b836942d1e0290c67"
 metafile = true
 
 [[files]]
@@ -1680,6 +1685,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "f32a81d66cdf147fb1a0a487f067bff74f8e101258cc551eaa232ef27ba5eea9"
+metafile = true
+
+[[files]]
+file = "mods/table-top-craft-fabric.pw.toml"
+hash = "b984c084e5b144d46ebf930f824ce30abf28ad162facab907010bffef666c9e5"
 metafile = true
 
 [[files]]
