@@ -1178,6 +1178,11 @@ hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
 metafile = true
 
 [[files]]
+file = "mods/convenient-decor.pw.toml"
+hash = "9e451c4f974817e61b2e20554b866ca1deb761dbb64e14ef89b8da0dde84a41b"
+metafile = true
+
+[[files]]
 file = "mods/couplings.pw.toml"
 hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
 metafile = true
