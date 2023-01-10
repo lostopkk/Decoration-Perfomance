@@ -1,0 +1,13 @@
+name = "Vanilla Parts"
+filename = "VanillaParts-2.1.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XS82iwVa/versions/LNSzLTcV/VanillaParts-2.1.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "f3091f3ef4ca82a240c0edc4a0e201636bd80619"
+
+[update]
+[update.modrinth]
+mod-id = "XS82iwVa"
+version = "LNSzLTcV"

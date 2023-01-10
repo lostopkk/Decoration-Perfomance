@@ -1179,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/couplings.pw.toml"
-hash = "113845c6f34fc699d57dffe95e5c3ddd41cb996ddeb04ec21529e3159c3dc3bf"
+hash = "e9959b342401ffdb0ddae4e9fd151b97a9cb94624d4658daafdac0c17d8bc262"
 metafile = true
 
 [[files]]
@@ -1710,6 +1710,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-parts.pw.toml"
+hash = "c4c8023a4e16d7b9d4b497261de91e28978f3c2b397e59e1daafba7e213da9ce"
 metafile = true
 
 [[files]]
