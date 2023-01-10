@@ -1684,7 +1684,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "5cf9c19d86fc3830f8105861c42d92b58c74bbbe90c0a94ad9df9e9a39af06b4"
+hash = "362f1bd3900b828f3ea36a3ab09f6fea594cde8f5703a8210d34f50491d3d844"
 metafile = true
 
 [[files]]
@@ -1724,7 +1724,7 @@ metafile = true
 
 [[files]]
 file = "mods/vinery.pw.toml"
-hash = "f11db428c5576254ec639eef9393ffec874cfdbc90dda8560f452104bc36c151"
+hash = "7c8a624ce6e9143ac32125924d2f6fc4c5535aed367be7420556185cee7ff09c"
 metafile = true
 
 [[files]]
