@@ -1179,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/convenient-decor.pw.toml"
-hash = "9e451c4f974817e61b2e20554b866ca1deb761dbb64e14ef89b8da0dde84a41b"
+hash = "be41a927a8f5707049c81973caf99c8ac0cfbb2c43e94416be58d67b8fda31e8"
 metafile = true
 
 [[files]]
@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "c2ebb5baae30e2c4831ab6d3f5b2c914416a522d8ac2a0d35de06c0b23d16fe1"
+hash = "aae38186254e060ced77c20033163248a8db02eebdc0aea79281a0890b88d355"
 metafile = true
 
 [[files]]

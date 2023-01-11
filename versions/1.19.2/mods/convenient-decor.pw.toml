@@ -1,13 +1,13 @@
 name = "Convenient Decor"
-filename = "convenientdecor-0.0.1.jar"
+filename = "convenientdecor-0.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gMWAhU1n/versions/5A6gGkEv/convenientdecor-0.0.1.jar"
+url = "https://cdn.modrinth.com/data/gMWAhU1n/versions/ns7z1JKC/convenientdecor-0.0.2.jar"
 hash-format = "sha1"
-hash = "0a6d5bb0e51b6a9bc6b61ad7aec6a64a5a68fd9f"
+hash = "70cd4723274ffdce90818774673f2e4a7d440fab"
 
 [update]
 [update.modrinth]
 mod-id = "gMWAhU1n"
-version = "5A6gGkEv"
+version = "ns7z1JKC"
