@@ -1563,11 +1563,6 @@ hash = "9bdff9784d75d3bd90f6d1ef24efcf0daf780b8fdf2a5ce37190815dd57632e5"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "eb6ad65bc55853f87bbd72085e690fd914318b94e3108bb6583b8da4363f480b"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "9506b1b7caa8550d12aecf50d02fbeeed90f3775a6597021f2953886e4d0eb47"
 metafile = true
@@ -1645,6 +1640,11 @@ metafile = true
 [[files]]
 file = "mods/searchlight.pw.toml"
 hash = "6d4f5f525c2461205af2a019f52001368727755026b00d03b7686d1b04abba9a"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "44cc0aa6a68ca26df9ad42efc51ed9a8b68d4e4e180d9810d174faf2d2c5a4b1"
 metafile = true
 
 [[files]]
