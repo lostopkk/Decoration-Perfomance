@@ -1083,6 +1083,11 @@ hash = "5969255784945bf4fa184d89e6c32e5b430122161f9c6b2cce08574f46f10c87"
 metafile = true
 
 [[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "19e78639ec8aa1e7a528ddbddfbcf9c8c1f6b8edccd386548e4ede2c1529fd78"
+metafile = true
+
+[[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
@@ -1125,6 +1130,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
+metafile = true
+
+[[files]]
+file = "mods/cae2.pw.toml"
+hash = "d6ef260ca789d17e02aee00e0505d0232bd1b6675b557923eb09a4152fbd5480"
 metafile = true
 
 [[files]]
@@ -1199,7 +1209,7 @@ metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
-hash = "aae38186254e060ced77c20033163248a8db02eebdc0aea79281a0890b88d355"
+hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
 metafile = true
 
 [[files]]
@@ -1239,7 +1249,12 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "d18222d19e161fecd61a8182d6dd13c561462e67fcd551ecc555b48fdf77794b"
+hash = "549ed2a334ee7dbce7e953cdbb325805ff5aa8711d9fb5fde8ab47a055d64e46"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-crosshair-compat.pw.toml"
+hash = "0d20e656b385e96192f4f80d5914d33305f566a4f937716a17346c0e01e147a7"
 metafile = true
 
 [[files]]
@@ -1250,11 +1265,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "44849e55dc9013fe1c0b590d0f52021cbe016a47081a443620a73847df4578d4"
-metafile = true
-
-[[files]]
-file = "mods/dynamiccrosshaircompat.pw.toml"
-hash = "5b281bb503106008912c9bc486dafcccf68890ad16b9281bb762878dbdb1491c"
 metafile = true
 
 [[files]]
@@ -1394,7 +1404,7 @@ metafile = true
 
 [[files]]
 file = "mods/iammusicplayer.pw.toml"
-hash = "bf37b34100f3308e8bdee113eed3b0a6c185ae624fce10d165cfb8d41db0e184"
+hash = "60a711020734cd21cb2b97d531d9d2c9e1e22bb650f7e77621aa6faf251b087b"
 metafile = true
 
 [[files]]
