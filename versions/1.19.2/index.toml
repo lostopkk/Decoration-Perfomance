@@ -1264,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "44849e55dc9013fe1c0b590d0f52021cbe016a47081a443620a73847df4578d4"
+hash = "1bba2574a2f04ba8c037eaaa8f4b599176f20e1a5f144ee6eb55725fabdc7e44"
 metafile = true
 
 [[files]]
