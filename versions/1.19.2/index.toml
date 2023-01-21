@@ -1084,7 +1084,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
-hash = "19e78639ec8aa1e7a528ddbddfbcf9c8c1f6b8edccd386548e4ede2c1529fd78"
+hash = "e1763d7c3db605b4824378db6e1149d8b48e3ee0d7b06ce467a217eb96ab1f45"
 metafile = true
 
 [[files]]
@@ -1114,12 +1114,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "c19d5ad0b3b30fc4d9f1a712b0686f267bbd08b825e5439817b585195f7d0797"
+hash = "b22fb603eab45ffe52a5ef7d44835cb41590646adecfe467ddd91d66f6570588"
 metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "234c91b0e540f1feb7d364bafc6ff58a707aaa670f3ce0a38d45d320950577ad"
+hash = "2f176b7dd08ded1cc79ddb2b0f8ac5cb9c0aaaae08898cf6720b14fd298e715b"
 metafile = true
 
 [[files]]
@@ -1129,7 +1129,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
+hash = "f551f7780b8d32345f7c4646137d1ed91fb7f24e3a61d998d6fc5b366f44b4a0"
 metafile = true
 
 [[files]]
@@ -1254,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-crosshair-compat.pw.toml"
-hash = "0d20e656b385e96192f4f80d5914d33305f566a4f937716a17346c0e01e147a7"
+hash = "ed5c1c7bf968dbab242b9a053dce68a35f93b8011a9c3d9cef70d4b6a17cf8c7"
 metafile = true
 
 [[files]]
@@ -1309,12 +1309,12 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "8d8c5a1095b1176dd838b0352d8931edfe9d76b7fc77e9d18a6af07422428a55"
+hash = "a49785f8c91790078ac8a1631af873f62fb1325024cc486ac24a7b37ecfb89ac"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
+hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
 metafile = true
 
 [[files]]
@@ -1354,7 +1354,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "6577d4f44379f709c0c6105eeb54e54dfecfdca74df12627bbabb062f584f48e"
+hash = "ba4667516df5617d0716238852e84a5f88c83a94c3dfe0eaaa0ec3666c6038b0"
 metafile = true
 
 [[files]]
@@ -1409,7 +1409,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7e6a77d0ebdb13f5a90507620f22d7fb29926c6d9683366d48f61ed442727e69"
+hash = "784f2f9d83342810ceafb5b6b7ddfec867ce807b7498d32e656a924f97a8009d"
 metafile = true
 
 [[files]]
@@ -1509,7 +1509,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "5cdf721f41fbc4371c3cfd50d74016d9bb0f37bf4f1089e2aaa0fe0dd4ec130b"
+hash = "f4fdb82265f6fcff7dafcff59bd579ac335b37b16808e094e940d819233cfe77"
 metafile = true
 
 [[files]]
@@ -1654,7 +1654,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "c70f7d34c3653cc2dd737bd4603438f5a15048269f1029e3c35c0ac7db012df6"
+hash = "65231c99d1dfed6039a3eb1bf8345a3e87d31f60824d6d8df9ff15351deed6c0"
 metafile = true
 
 [[files]]
@@ -1704,7 +1704,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f32a81d66cdf147fb1a0a487f067bff74f8e101258cc551eaa232ef27ba5eea9"
+hash = "327a45179e0b4b1cc1751bff031f79c3ae08da08c35251d04d5e026309207ac2"
 metafile = true
 
 [[files]]
