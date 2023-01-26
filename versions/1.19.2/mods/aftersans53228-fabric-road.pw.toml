@@ -1,0 +1,13 @@
+name = "aftersans53228's fabric road"
+filename = "aftersans53228-fabric-road+1.0.1+1.19+Release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6HONPMpu/versions/WbQxKWm3/aftersans53228-fabric-road%2B1.0.1%2B1.19%2BRelease.jar"
+hash-format = "sha1"
+hash = "1295e5fa7d3bab423c65521ddeb259bc077583a0"
+
+[update]
+[update.modrinth]
+mod-id = "6HONPMpu"
+version = "WbQxKWm3"
