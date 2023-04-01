@@ -1,5 +1,5 @@
 <h1 align="center">Decoration Perfomance</h1>
-<h1 align="center">Rework 1.19.4 in progress</h1>
+<h1 align="center">Rework in progress</h1>
 <p align="center" style="text-align: center">
   <a href="https://github.com/lostopkk/Decoration-Perfomance">
     <img alt="Deco Peform" src="./Deco Peform.PNG" width="256" height="256"/>
